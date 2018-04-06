@@ -15,8 +15,6 @@ components:
     engine: emergence
     source: git+https://github.com/CodeForPhilly/codeforphilly.org.git#develop
     hostname: staging.codeforphilly.org
-
 ---
-# {{ title }}
 
 Code for Philly's laddr-powered website
